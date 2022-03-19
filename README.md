@@ -1,2 +1,2 @@
-# printtrial
-Print trial
+# pygametrial
+Pygame trial on Binder
